@@ -3,4 +3,4 @@
  
  # What i learn
  
- Fetch API /AJAX can only work in a server and not file path so do install live server if using Vscode or xammpp etc.
+ Fetch API /AJAX can only work in a server and not file path so do install live server if using Vscode or just install xampp etc.

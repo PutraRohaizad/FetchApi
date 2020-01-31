@@ -1,5 +1,5 @@
 # FetchApi
- This is simple Fetch Api practise using jquery and bootstrap.
+ This is simple Fetch Api practise using jquery and bootstrap and integrate with https://jsonplaceholder.typicode.com/.
  
  # What i learn
  
